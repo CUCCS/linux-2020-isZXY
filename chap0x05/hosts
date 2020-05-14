@@ -1,0 +1,16 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+127.0.0.1 windows10.microdone.cn
+192.30.253.113 github.com
+10.211.55.15   	server.shared server #prl_hostonly shared
+10.37.129.4    	server.host-only server #prl_hostonly host-only
+
+10.37.129.4 vn.sec.cuc.edu.cn
+10.37.129.4  wp.sec.cuc.edu.cn
